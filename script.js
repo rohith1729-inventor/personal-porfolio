@@ -149,7 +149,7 @@ function updateActiveSection() {
   });
 }
 
-const nameText = "Sai Kumar";
+const nameText = "Rohith";
 let index = 0;
 const typingSpeed = 110; // milliseconds per letter
 
